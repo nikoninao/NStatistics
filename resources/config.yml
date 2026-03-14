@@ -1,0 +1,14 @@
+---
+# Providers:
+# yaml
+# sqlite3
+# json
+provider: "yaml"
+
+messages:
+  stats-header: "Your statistic:"
+  kills: "Kills: {count}"
+  deaths: "Deaths: {count}"
+  kdr: "K/D: {count}"
+  player-not-found: "Player {player} not found!"
+...

@@ -1,0 +1,8 @@
+name: Statistics
+version: 1.0.0
+antigen: statistics\Statistics
+api: 5.0.0
+
+virions:
+  - CortexPE\Commando\Commando
+  - muqsit\SimplePacketHandler\SimplePacketHandler

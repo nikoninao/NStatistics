@@ -1,0 +1,11 @@
+name: Statistics
+main: statistics\Statistics
+api: 5.0.0
+version: 1.0.0
+author: NikoNinao
+website: https://github.com/nikoninao
+depend:
+  - PlaceholderAPI_NB
+permissions:
+  statistics.command:
+    default: true
